@@ -1,0 +1,87 @@
+The news article: Microsoft announces new A.I.-powered Bing homepage that you can chat with
+
+
+Microsoft held a press event on Tuesday where it announced new AI-powered updates to its Bing search engine and Edge browser.
+
+Bing, specifically, is getting a large update that allows you to chat with it to get more detailed answers to search queries. You can ask Bing to plan a trip, for example, and then ask it how much that trip will cost. A preview version of the new Bing launches on Tuesday.
+
+OpenAI CEO Sam Altman took the stage momentarily during the event to confirm that Microsoft is using its GPT technology, which is at the core of OpenAI’s popular ChatGPT chatbot, to power some of its new software.
+
+Microsoft’s new Bing chatbot might seem similar to ChatGPT. But in a meeting with investors on Tursday Amy Hood, Microsoft’s finance chief, said Microsoft is employing a “next-generation OpenAI model that is more powerful than ChatGPT.”
+
+A video of the announcement, which was not livestreamed, is now available here.
+
+Here’s what Microsoft announced:
+
+TUE, FEB 7 20231:54 PM EST
+The new version of Bing launches today on desktop in limited preview. Mobile version also coming
+Microsoft's new versions of Bing and Edge are available to try beginning Tuesday.
+Microsoft’s new versions of Bing and Edge are available to try beginning Tuesday.
+Jordan Novet | CNBC
+Microsoft said the new AI-powered Bing search and Edge browser will launch on Tuesday for desktop in a limited preview. That means users will get a limited number of queries to search during the initial period.
+
+The company said a waitlist will be available for the full version and said it will be available to millions of people in the coming weeks. Microsoft also plans a mobile version of Bing.
+
+Later, during a Q&A session with reporters, the company said that it plans to eventually bring its AI-powered chat features to all browsers, though it’s starting with Microsoft Edge first. Edge will also have some unique features that won’t be offered on competing browsers.
+
+
+So, there you have it. Microsoft is using OpenAI’s GPT technologies to supercharge the new and improved Bing. But not the ChatGPT tool itself, which has taken the world by storm. Still, the functions seem quite similar.
+
+“I feel like I’ve been waiting for this for 20 years so I’m very happy it’s here,” Altman said.
+
+The new Bing can:
+
+Answer questions with lots of context similar to the way ChatGPT does.
+Create itineraries for trips. So, for example, you can ask it to “Plan a five-day trip to Mexico.”
+You can continue to ask it more questions. So, if you use the example of planning a trip, you can then follow up with additional questions like “How much will this trip cost us?” or “Can we add or change something in the itinerary?” --Ashley Capoot
+TUE, FEB 7 20231:16 PM EST
+Nadella promises a ‘new paradigm for search’
+Nadella discussed some of the work the company is doing with AI, specifically referring to search. 
+
+“And so we want to show you some of this innovation starting with how it’s going to reshape the largest software category on planet earth, which I’ve been working on for a long time and which we are very excited about, search.”
+
+’“It’s a new day in search, it’s a new paradigm for search, rapid innovation is going to come,” Nadella added.
+
+Nadella talked about a “new copilot” experience, which refers to the ability of AI tools like to help perform tasks on behalf of workers with “an all-new Bing search engine and web browser.”
+
+
+“I think this technology is going to reshape pretty much every software category,” Nadella added. --Jordan Novet
+
+
+It’s a typical overcast rainy February morning in Redmond, Washington, and there’s construction on Microsoft’s campus as the company executes a broad campus refresh. Before the Covid pandemic, Microsoft had said new buildings would be complete by 2022. The company now expects the whole project to be complete by 2025.
+
+Microsoft’s Connector shuttle buses are ferrying employees into offices, while other employees drive themselves to work. Some employees are still working from home, after getting the okay from management.
+
+We should be getting started in about 15 minutes or so. —Jordan Novet
+
+
+Google chief Sundar Pichai said in a blog post that the company plans to incorporate some of Bard’s cutting-edge AI features into its core search tool. This means that, like ChatGPT, future versions of Google Search will summarize complex topics to users.
+
+Soon after Google announced Bard, the company sent a memo to employees urging them to provide feedback on the new software.
+
+“Next week, we’ll be enlisting every Googler to help shape Bard and contribute through a special company-wide dogfood,” Pichai said in the employee memo that was viewed by CNBC. --Jonathan Vanian
+
+
+Products like ChatGPT are built on top of generative AI software capable of producing stunning imagery that can look like paintings sketched by real humans or, as is the case with ChatGPT, essays that read like they were written by actual college students.
+
+Investors are pouring billions of dollars into startups that specialize in generative AI. Microsoft, for example, announced a new multibillion-dollar investment in OpenAI in late January. Meanwhile, Khosla Ventures, Craft Ventures, Sequoia, Entrepreneur First and Lux Capital are the top venture capital firms investing in generative AI startups, according to deal-tracking firm PitchBook.
+
+Stability AI, another popular generative AI-focused startup, said in October that it received $101 million in funding from Coatue, Lightspeed Venture Partners, and O’Shaughnessy Ventures. Stability AI built an open-source project called Stable Diffusion that garnered a lot of attention from people who were captivated by its ability to dream up images based on written prompts. -- Jonathan Vanian
+
+“The AI race is clearly on for the tech sector,” the analysts wrote in a Monday note. They added that speed will be important for scale as the AI models are learning.
+
+There’s already competition brewing between Microsoft and Google on the AI front. Google will hold an event on Wednesday to talk about its new Bard AI product. Google announced Bard on Monday and said it will roll out in Google Search in the coming weeks.
+
+
+That reportedly includes Microsoft, which supplies cloud-computing services to OpenAI in order to run ChatGPT.
+
+In January, a Microsoft engineer said in an internal online discussion that Microsoft employees should not tell ChatGPT any sensitive corporate information, according to Insider, which reviewed the warning. OpenAI could use the information in the course of training future models, the engineer wrote. From there, it could theoretically be possible for someone to receive confidential information while conversing with a version of ChatGPT that’s relying on a more up-to-date language model.
+
+Insider also reported that an Amazon attorney advised staff members not to send ChatGPT any confidential information, including source code. — Jordan Novet
+
+
+OpenAI CEO Sam Altman said via Twitter that, within 5 days of debuting ChatGPT — which is still in a so-called beta, or experimental version — the software “crossed 1 million users!”
+
+People have found a number of users for the tool, from helping technologists organize research notes for lectures to generating software code on behalf of developers. ChatGPT has become so popular that some schools across the nation have banned students from using the tool as a new “homework assistant.”
+
+Check out this CNBC documentary on the rise of ChatGPT and its potential to shake up the business world. -- Jonathan Vanian
