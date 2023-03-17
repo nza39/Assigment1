@@ -1,0 +1,125 @@
+3.For assignment two I have selected various debates and speeches from the gov.uk website that discusses about the policy on covid 19. I have used some of the online tools from the appendix online services to determine whether my dataset is positive or negative. I begin my analyze with opentext to determine the overall tone of my dataset. Acccording to opentext, my datdaset on covid 19 policy is found to be neutral. The sentiment breakdown resulted in 63% neutral, 23% negative, 14% positive. There were 34 positive comments and discussions. While 45 sentences and comments were identified negative.Three categories were divided based on Most Relevant people, Most Relevant places, and Most Relevant organizations. Below are the results of those categories; 
+
+      Most Relevant people 
+People       Relevancy    Frequency
+Grant          41%           4
+Alas           39%           1
+Macron         35%           2
+Fossey         33%           1
+Boris Johnson  22%           1
+
+Most Relevant Places 
+Places            Relevancy  Frequency
+United Kingdom     76%         29
+England            59%         10
+City of Liverpool  50%         5
+France             46%         5
+ Kent              36%         2
+Paris              36%         2
+Spain              27%         1
+City of Oxford     24%         1
+Europe             19%         1
+London             19%         1
+Lancashire         18%         1
+Portugal           18%         1
+South Africa       18%         1
+Israel             17%         1
+
+Organizations            Relevancy  Frequency
+Pfizer Inc.                53%        3
+UK Government              45%        1
+Joint on Vaccination       42%        1
+World Health Organization  38%        3
+COBR committee             37%        2
+Liverpool City Council     36%        1
+Royal British Legion       34%        1
+British army               33%        1
+Oxford AstraZeneca         29%        2
+European Medicines Agency  24%        1
+Healthcar Regulatory Agency 24%       1
+Firstof Scotland and Wales 18%         1
+
+The Most Relevant people were Grant, Alas, Macron, Fossey Boris Johnson. While, Most Relevant places were identified as United Kingdom, England, City of Liverpool, France Kent. And Most relevant Organazation throughout the dataset was found to be Pfizer Inc., UK Government, Joint Committee on Vaccination, World Health Organization COBR committee. The most positive sentence was found to be 'your work has been astonishing.' Whereas, the most negative sentence is 'as we’ve seen throughout this pandemic, this virus alas can move all too swiftly from one nation to another'. Opentext found the dataset type as an opinion and the scored ranged from 30-50. The overall text is 68% opinion and 32% facts. Furthermore,the concepts were divided into the following table; 
+
+
+   Complex concepts     Relevancy   Freq
+international response    97%        4
+social distancing         97%        4
+vaccination programme     96%        3
+national restrictions     96%        2
+international friends     96%        2
+european continent        96%        2
+kent resilience forum     95%        2
+decisive action           95%        2
+care home                 95%        2
+continued success         94%        2
+long-prepared plans       94%        2
+french government         93%        2
+kent county council       93%        2
+freight crossing          93%        2
+british supermarkets      92%        2
+fast transmissibility     92%        2
+save lives                92%        2
+vulnerable groups         91%        2
+solitary driver           91%        2
+rigorous safety           91%        2
+
+Simple Concepts15     Relevancy    Freq.
+vaccine                 100%        32
+government              99%         16
+virus                   98%         20
+dose                    97%         15
+school                  97%         15
+covid                   96%         18
+vaccination             96%          8
+friends                 95%         16
+restriction             95%         12
+risk                    94%         15
+england                 93%         10
+national                93%         10
+measures                92%         11
+food                    92%          5
+population              91%          5
+
+Next, I used the free sentimmental analyzer as my second tool. When analyzing our dataset the analyzer Sentiment scores range from -100 to +100, where -100 indicates a very negative or serious tone and +100 indicates a very positive or enthusiastic tone. This online service sees computational linguistics and text mining to automatically to determine the sentiment or affective nature of the text being analyzed.
+My dataset has a sentiment score of -8.6. This means that the overall sentiment or tone of this text is essentially neutral. the second tool is in accordance with our first analysis that our dataset of covid 19 policy ermerges as neutral.
+
+
+3.                                       Reference
+Oral statement to Parliament Prime Minister's statement to the House of Commons on coronavirus.(2021,January 27). Retrieved March 13, 2023,
+from https://www.gov.uk/government/speeches/prime-ministers-statement-to-the-house-of-commons-on-coronavirus-27-january-2021
+
+PM statement at coronavirus press conference. (2021, March 8).Retrieved March 13, 2023, 
+from https://www.gov.uk/government/speeches/pm-statement-at-coronavirus-press-conference-8-march-2021
+
+Prime Minister Boris Johnson has today set out further changes to lockdown measures in England.(2023,June 23).Retrieved March, 13, 2023,
+from https://www.gov.uk/government/news/pm-announces-easing-of-lockdown-restrictions-23-june-2020
+
+Prime Minister Boris Johnson addressed the nation on coronavirus.(2020,September 22).Retrieved March, 13, 2023
+from https://www.gov.uk/government/speeches/prime-ministers-statement-on-coronavirus-covid-19-22-september-2020
+
+Prime Minister Boris Johnson gave a statement at the coronavirus press conference.(2020, December 21).Retrieved, March, 13, 2023, 
+from https://www.gov.uk/government/speeches/prime-ministers-statement-on-coronavirus-covid-19-21-december-2020
+
+Prime Minister Boris Johnson made a statement at the coronavirus press conference.2020, November 9).Retrieved, March, 13, 2023, 
+From https://www.gov.uk/government/speeches/prime-ministers-statement-on-coronavirus-covid-19-9-november-2020
+
+                                           Online services 
+             
+Opentext Magellan, (2022). Retrieved, March, 13, 2023
+from http://magellan-text-mining.opentext.com/
+
+Sentiment Analyzer, (2004).Retrieved, March, 13, 2023
+from https://www.danielsoper.com/sentimentanalysis/default.aspx
+
+
+
+
+
+
+
+
+
+
+
+
